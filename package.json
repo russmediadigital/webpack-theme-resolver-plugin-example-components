@@ -6,6 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Dominic Gebhart <dominic.gebhart@russmedia.com>",
   "license": "MIT"
 }
